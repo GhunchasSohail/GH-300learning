@@ -1,13 +1,31 @@
 # GH-300learning
 
-A beginner-friendly project template for learning software development.
+A full learning roadmap repository for software engineering and product development.
 
-## Structure
+## Repository structure
 
-- `src/` - application source code
+- `src/` - sample starter application
 - `tests/` - unit tests
-- `docs/` - project documentation
-- `scripts/` - helper scripts
+- `roadmap/` - learning phases and study plan
+- `notes/` - personal learning notes
+- `exercises/` - coding challenges and mini tasks
+- `projects/` - portfolio-ready project work
+- `resources/` - helpful links and references
+- `docs/` - documentation and notes
+
+## Learning roadmap
+
+1. Foundations
+2. Programming basics
+3. Python development
+4. Web fundamentals
+5. Databases
+6. Backend development
+7. Frontend development
+8. DevOps and deployment
+9. Projects and portfolio
+
+Start with the roadmap folder and work through each phase in order.
 
 ## Quick start
 
